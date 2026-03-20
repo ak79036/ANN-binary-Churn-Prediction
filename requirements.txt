@@ -1,0 +1,10 @@
+ipykernel
+nltk
+spacy
+pandas
+scikit-learn ## used in feautre engineering and data transformations
+numpy
+matplotlib
+tensorflow
+tensorboard
+streamlit
